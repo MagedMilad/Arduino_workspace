@@ -25,9 +25,8 @@ void loop() {
         val[0]=val[1]=0;
         sign[0]=sign[1]=1;
       }
-      else{
-        mode^=1;
-      }
+      mode^=1;
+      idx=0;
     }
   }
 
