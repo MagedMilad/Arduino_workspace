@@ -24,5 +24,5 @@ void loop() {
   else{
     digitalWrite(out_led,LOW);
   }
-  delay(100);
+  delay(500);
 }
